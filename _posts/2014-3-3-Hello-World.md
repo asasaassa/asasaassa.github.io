@@ -9,7 +9,7 @@ title: SOLID Principle
   같은 이유로 변경될 코드들은 모으고, 다른 이유로 변경될 코드들은 흩어라.
   다른 이유로 변경될 모듈들끼리 의존성을 갖지 않도록해야한다.
   
-  https://pl.kotl.in/T5Fw6gwG-
+  <a>https://pl.kotl.in/T5Fw6gwG-</a>
   
  # 2. 개방-폐쇄 원칙 (Open/Closed Principle)<br> 
   확장에는 개방되어있고 변화에 대해서는 페쇄되어 있어야한다.<br> 
